@@ -14,4 +14,4 @@ install:
   - chmod +x ./sql/gradlew
 
 build_script:
-  - ./sql/gradlew test --info  # запускаем тест, флаг --info позволяет выводить больше информации
+  - ./sql/gradlew ./sql/test --info  # запускаем тест, флаг --info позволяет выводить больше информации
