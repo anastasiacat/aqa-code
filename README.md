@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a7q6tt06t4ran8vn/branch/master?svg=true)](https://ci.appveyor.com/project/anastasiacat/aqa-code/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/a7q6tt06t4ran8vn?svg=true)](https://ci.appveyor.com/project/anastasiacat/aqa-code)
